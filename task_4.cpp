@@ -26,7 +26,7 @@ int main() {
     cout << dbl << endl;
     cout << faktorial() << endl;
     cout << dbl << endl;
-    //separateSum(5, 'e');
+    separateSum(5, 'e');
     cout << dbl << endl;
     
 
@@ -67,15 +67,12 @@ int faktorial(){
     return sum;
 }
 
-// int separateSum(int x, char y){
-//     int odd; // не парні числа
-//     int even; // парні числа
+int separateSum(int x, char y){
+    int odd; // не парні числа
+    int even; // парні числа
+    return 0;
 
-//     if (y == 'e'){
-//     even =  
-//     }
-
-// }
+}
 
 /*
     
