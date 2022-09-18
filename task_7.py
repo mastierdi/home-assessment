@@ -80,3 +80,10 @@ arracrobatics.getAboveZero(numbe)
         WWrite a program that will read the entered four-digit number. 
         After that, each digit of this number should go into a new series.
 '''
+
+fourDigitNumber = input("Enter four digit number: ")
+series = fourDigitNumber
+print(series[0], '\n')
+print(series[1], '\n')
+print(series[2], '\n')
+print(series[3], '\n')
